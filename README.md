@@ -53,5 +53,5 @@ This was created using **HTML**, **CSS Grid**, a bit of **JavaScript** for the h
 - Netlify: https://www.netlify.com/ - is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications
 
 ## Author
-- Frontend Mentor -[@rfcho322](https://www.frontendmentor.io/profile/rfcho322)
+- Frontend Mentor - [@rfcho322](https://www.frontendmentor.io/profile/rfcho322)
 
