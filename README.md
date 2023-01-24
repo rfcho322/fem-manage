@@ -1,5 +1,4 @@
-# fem-manage
-Manage - A responsive product landing page
+# Frontend Mentor Manage - A responsive product landing page
 
 ## Table of Contents
 
