@@ -330,13 +330,13 @@ p[data-width="wide"] {
 }
 
 .primary-footer__author a {
-  color: dodgerblue;
+  color: var(--clr-accent-400);
   text-decoration: none;
   text-decoration-color: var(--clr-neutral-100);
 }
 
 .primary-footer__author a:is(:hover, :focus) {
-  color: var(--clr-accent-400);
+  color: var(--clr-accent-300);
 }
 
 input:where([type="text"], [type="email"]) {
