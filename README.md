@@ -9,7 +9,7 @@ Important links:
 Vite: https://vitejs.dev/ </br></br>
 A11y Slider Library: https://a11yslider.js.org/ </br></br>
 
-Desktop View:
+Desktop View: </br></br>
 <img src="/images/fem-manage-desktop_ss.png" width="300"></br></br>
-Mobile View:
+Mobile View: </br></br>
 <img src="/images/fem-manage-mobile_ss.png" width="300"></br></br>
