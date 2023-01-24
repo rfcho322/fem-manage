@@ -10,4 +10,25 @@ Vite: https://vitejs.dev/ </br></br>
 A11y Slider Library: https://a11yslider.js.org/ </br></br>
 
 <h1>Desktop and Mobile View:</h1 </br></br>
-<img src="/images/fem-manage-desktop_ss.png" width="18%"> <img src="/images/fem-manage-mobile_ss-1.png" width="18%"> <img src="/images/fem-manage-mobile_ss-2.png" width="18%"> <img src="/images/fem-manage-mobile_ss-3.png" width="18%"> <img src="/images/fem-manage-mobile_ss-4.png" width="18%"> <img src="/images/fem-manage-mobile_ss-5.png" width="18%"> <img src="/images/fem-manage-mobile_ss-6.png" width="18%">
+<p align="center">
+  <img src="/images/fem-manage-desktop_ss.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-1.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-2.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-3.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-4.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-5.png" width="18%">
+</p>
+<p align="center">
+  <img src="/images/fem-manage-mobile_ss-6.png" width="18%">
+</p>
+
