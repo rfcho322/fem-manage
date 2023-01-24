@@ -2,7 +2,7 @@
 Manage - A responsive product landing page
 
 Website: https://venerable-chaja-dc637b.netlify.app/ </br></br>
-This is created using CSS Grid, tools like Vite for bundling and frontend development, A11y slider for product comments check the link below for the library.
+This is created using HTML, CSS Grid, a bit of JS for the hamburger menu and A11y slider for product comments, tools like Vite for bundling and frontend development, check the link below for the tools I've used.
 
 
 Important links:
