@@ -36,7 +36,7 @@ Users should be able to:
 
 ### How I developed it?
 
-This was created using **HTML**, **CSS Grid**, a bit of **JavaScript** for the hamburger menu and **A11y slider** for product comments, tools like **Vite** for bundling and for rapid frontend development.
+This was created using **HTML**, **CSS Grid**, a bit of **JavaScript** for the hamburger menu and **A11y slider** for product comments, tools like **Vite** for bundling and for rapid frontend development and **Netlify** to deploy the website online.
 
 ### Built using
 - Semantic HTML5
@@ -50,6 +50,7 @@ This was created using **HTML**, **CSS Grid**, a bit of **JavaScript** for the h
 
 - Vite: https://vitejs.dev/
 - A11y Slider Library: https://a11yslider.js.org/ - works by using CSS scroll snapping. You can generate a slider by creating an overflowed container and then setting widths all via CSS. Media queries in your CSS will also update the slider.
+- Netlify: https://www.netlify.com/ - is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications
 
 ## Author
 - Frontend Mentor -[@rfcho322](https://www.frontendmentor.io/profile/rfcho322)
