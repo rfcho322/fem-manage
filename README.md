@@ -48,7 +48,7 @@ This was created using **HTML**, **CSS Grid**, a bit of **JavaScript** for the h
 
 ### Resources
 
-- Vite: https://vitejs.dev/
+- Vite: https://vitejs.dev/ - is a JavaScript development tool that greatly enhances front-end development
 - A11y Slider Library: https://a11yslider.js.org/ - works by using CSS scroll snapping. You can generate a slider by creating an overflowed container and then setting widths all via CSS. Media queries in your CSS will also update the slider.
 - Netlify: https://www.netlify.com/ - is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications
 
