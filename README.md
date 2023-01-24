@@ -5,8 +5,8 @@ Website: https://venerable-chaja-dc637b.netlify.app/ </br></br>
 This is created using HTML, CSS Grid, a bit of JS for the hamburger menu and A11y slider for product comments, tools like Vite for bundling and frontend development, check the link below for the tools I've used.
 
 
-Important links:
-Vite: https://vitejs.dev/ </br></br>
+Important links: </br></br>
+Vite: https://vitejs.dev/ </br>
 A11y Slider Library: https://a11yslider.js.org/ </br></br>
 
 <h1>Desktop and Mobile View:</h1 </br></br>
