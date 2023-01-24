@@ -10,5 +10,5 @@ Vite: https://vitejs.dev/ </br></br>
 A11y Slider Library: https://a11yslider.js.org/ </br></br>
 
 <h1>Desktop and Mobile View:</h1 </br></br>
-<img src="/images/fem-manage-desktop_ss.png" width="45%">
-<img src="/images/fem-manage-mobile_ss.png" width="45%">
+<img src="/images/fem-manage-desktop_ss.png" width="10%">
+<img src="/images/fem-manage-mobile_ss.png" width="10%">
