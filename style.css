@@ -329,6 +329,16 @@ p[data-width="wide"] {
   opacity: 0.7;
 }
 
+.primary-footer__author a {
+  color: dodgerblue;
+  text-decoration: none;
+  text-decoration-color: var(--clr-neutral-100);
+}
+
+.primary-footer__author a:is(:hover, :focus) {
+  color: var(--clr-accent-400);
+}
+
 input:where([type="text"], [type="email"]) {
   border-radius: 100vw;
   border: 0;
@@ -764,6 +774,10 @@ input:where([type="text"], [type="email"]) {
 
 .margin-bottom-700 {
   margin-block-end: var(--size-700);
+}
+
+.margin-top-400 {
+  margin-block-start: var(--size-700);
 }
 
 .margin-top-900 {
